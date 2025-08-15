@@ -2,7 +2,6 @@
   "updatedAt": "2025-08-01T12:00:00Z",
   "meditations": [
     {
-      "id": "UUID (optional; may be omitted)",
       "title": "Arrive & Breathe",
       "audioURL": "https://media.homewithin.com/meditations/arrive-and-breathe.mp3",
       "durationSeconds": 600,
