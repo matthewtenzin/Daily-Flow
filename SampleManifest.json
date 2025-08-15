@@ -2,18 +2,18 @@
   "updatedAt": "2025-08-01T12:00:00Z",
   "meditations": [
     {
-      "title": "Arrive & Breathe",
-      "audioURL": "https://media.homewithin.com/meditations/arrive-and-breathe.mp3",
+      "title": "Being the Heart Light",
+      "audioURL": "https://www.dropbox.com/scl/fi/5oylw6y2t4u5s3qr82d7s/Being-the-Heart-Light.mp3?rlkey=nwg6302l4cooz3rg7xnmkqjs8&st=cztmei3e&dl=0",
       "durationSeconds": 600,
-      "imageURL": "https://media.homewithin.com/meditations/arrive-and-breathe.jpg",
-      "tags": ["breath", "arriving"]
+      "imageURL": "https://www.dropbox.com/scl/fi/02wq8xu9ooolsqpvbtips/Being-the-Heart-Light-Cover-Image.png?rlkey=wona6z9me9jovxupfusp8iq5j&st=zl8jp8v4&dl=0",
+      "tags": ["love", "healing"]
     },
     {
-      "title": "Energy Reset",
-      "audioURL": "https://media.homewithin.com/meditations/energy-reset.mp3",
+      "title": "Finding Peace in Changing Times",
+      "audioURL": "https://www.dropbox.com/scl/fi/q1n6cx7dkjq32k7ig7bkg/Finding-Peace-in-Changing-Times.mp3?rlkey=6duomtmny5w6w8gyi0yvanesz&st=kpmi5toc&dl=0",
       "durationSeconds": 720,
-      "imageURL": null,
-      "tags": ["grounding", "reset"]
+      "imageURL": "https://www.dropbox.com/scl/fi/9cfa9qp0gne3uk7q1hgip/Finding-Peace-in-Changing-Times-Cover-Image.png?rlkey=pdnrlg13mgy43gfuw5nfb2tvq&st=b5wsa8i4&dl=0",
+      "tags": ["peace", "reset"]
     }
   ]
 }
